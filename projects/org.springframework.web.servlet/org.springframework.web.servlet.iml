@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <varelement var="file://$IVY_CACHE$/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-2.0.8.jar" value="IVY_CACHE/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-2.0.8.jar" />
+    <varelement var="file://$IVY_CACHE$/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-sources-2.0.8.jar" kind="src:" value="/IVY_CACHE/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-sources-2.0.8.jar" />
+    <varelement var="file://$IVY_CACHE$/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-1.0.0.jar" value="IVY_CACHE/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-sources-1.0.0.jar" kind="src:" value="/IVY_CACHE/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-sources-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-1.1.0.jar" value="IVY_CACHE/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-sources-1.1.0.jar" kind="src:" value="/IVY_CACHE/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-sources-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.el/com.springsource.javax.el/1.0.0/com.springsource.javax.el-1.0.0.jar" value="IVY_CACHE/javax.el/com.springsource.javax.el/1.0.0/com.springsource.javax.el-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.el/com.springsource.javax.el/1.0.0/com.springsource.javax.el-sources-1.0.0.jar" kind="src:" value="/IVY_CACHE/javax.el/com.springsource.javax.el/1.0.0/com.springsource.javax.el-sources-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar" value="IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-sources-1.1.2.jar" kind="src:" value="/IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-sources-1.1.2.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-2.1.0.jar" value="IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-2.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-sources-2.1.0.jar" kind="src:" value="/IVY_CACHE/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-sources-2.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet/2.5.0/com.springsource.javax.servlet-2.5.0.jar" value="IVY_CACHE/javax.servlet/com.springsource.javax.servlet/2.5.0/com.springsource.javax.servlet-2.5.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet/2.5.0/com.springsource.javax.servlet-sources-2.5.0.jar" kind="src:" value="/IVY_CACHE/javax.servlet/com.springsource.javax.servlet/2.5.0/com.springsource.javax.servlet-sources-2.5.0.jar" />
+    <varelement var="file://$IVY_CACHE$/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-2.0.5.jar" value="IVY_CACHE/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-2.0.5.jar" />
+    <varelement var="file://$IVY_CACHE$/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-sources-2.0.5.jar" kind="src:" value="/IVY_CACHE/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-sources-2.0.5.jar" />
+    <varelement var="file://$IVY_CACHE$/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-2.6.6.jar" value="IVY_CACHE/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-2.6.6.jar" />
+    <varelement var="file://$IVY_CACHE$/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-sources-2.6.6.jar" kind="src:" value="/IVY_CACHE/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-sources-2.6.6.jar" />
+    <varelement var="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar" value="IVY_CACHE/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-sources-1.0.0.jar" kind="src:" value="/IVY_CACHE/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-sources-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-1.2.0.jar" value="IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-1.2.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-sources-1.2.0.jar" kind="src:" value="/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-sources-1.2.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0.jar" value="IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-sources-2.1.0.jar" kind="src:" value="/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-sources-2.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" value="IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-sources-1.1.1.jar" kind="src:" value="/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-sources-1.1.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-3.0.2.FINAL.jar" value="IVY_CACHE/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-3.0.2.FINAL.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-sources-3.0.2.FINAL.jar" kind="src:" value="/IVY_CACHE/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-sources-3.0.2.FINAL.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-1.4.0.jar" value="IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-1.4.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-sources-1.4.0.jar" kind="src:" value="/IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-sources-1.4.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-1.5.0.jar" value="IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-1.5.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-sources-1.5.0.jar" kind="src:" value="/IVY_CACHE/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-sources-1.5.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.4.2/com.springsource.org.codehaus.jackson.mapper-1.4.2.jar" value="IVY_CACHE/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.4.2/com.springsource.org.codehaus.jackson.mapper-1.4.2.jar" />
+    <varelement var="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.4.2/com.springsource.org.codehaus.jackson.mapper-sources-1.4.2.jar" kind="src:" value="/IVY_CACHE/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.4.2/com.springsource.org.codehaus.jackson.mapper-sources-1.4.2.jar" />
+    <varelement var="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.4.2/com.springsource.org.codehaus.jackson-1.4.2.jar" value="IVY_CACHE/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.4.2/com.springsource.org.codehaus.jackson-1.4.2.jar" />
+    <varelement var="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.4.2/com.springsource.org.codehaus.jackson-sources-1.4.2.jar" kind="src:" value="/IVY_CACHE/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.4.2/com.springsource.org.codehaus.jackson-sources-1.4.2.jar" />
+    <varelement var="file://$IVY_CACHE$/org.custommonkey.xmlunit/com.springsource.org.custommonkey.xmlunit/1.2.0/com.springsource.org.custommonkey.xmlunit-1.2.0.jar" value="IVY_CACHE/org.custommonkey.xmlunit/com.springsource.org.custommonkey.xmlunit/1.2.0/com.springsource.org.custommonkey.xmlunit-1.2.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.custommonkey.xmlunit/com.springsource.org.custommonkey.xmlunit/1.2.0/com.springsource.org.custommonkey.xmlunit-sources-1.2.0.jar" kind="src:" value="/IVY_CACHE/org.custommonkey.xmlunit/com.springsource.org.custommonkey.xmlunit/1.2.0/com.springsource.org.custommonkey.xmlunit-sources-1.2.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-1.6.1.jar" value="IVY_CACHE/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-1.6.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-sources-1.6.1.jar" kind="src:" value="/IVY_CACHE/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-sources-1.6.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-2.5.1.jar" value="IVY_CACHE/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-2.5.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-sources-2.5.1.jar" kind="src:" value="/IVY_CACHE/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-sources-2.5.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-2.3.15.jar" value="IVY_CACHE/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-2.3.15.jar" />
+    <varelement var="file://$IVY_CACHE$/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-sources-2.3.15.jar" kind="src:" value="/IVY_CACHE/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-sources-2.3.15.jar" />
+    <varelement var="file://$IVY_CACHE$/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-1.1.1.jar" value="IVY_CACHE/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-1.1.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-sources-1.1.1.jar" kind="src:" value="/IVY_CACHE/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-sources-1.1.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar" value="IVY_CACHE/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar" kind="src:" value="/IVY_CACHE/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" value="IVY_CACHE/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-sources-4.6.0.jar" kind="src:" value="/IVY_CACHE/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-sources-4.6.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.mozilla.javascript/com.springsource.org.mozilla.javascript/1.7.0.R2/com.springsource.org.mozilla.javascript-1.7.0.R2.jar" value="IVY_CACHE/org.mozilla.javascript/com.springsource.org.mozilla.javascript/1.7.0.R2/com.springsource.org.mozilla.javascript-1.7.0.R2.jar" />
+    <varelement var="file://$IVY_CACHE$/org.hibernate/com.springsource.org.hibernate/3.3.1.GA/com.springsource.org.hibernate-3.3.1.GA.jar" value="IVY_CACHE/org.hibernate/com.springsource.org.hibernate/3.3.1.GA/com.springsource.org.hibernate-3.3.1.GA.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar" value="IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar" kind="src:" value="/IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles/2.1.2.osgi/com.springsource.org.apache.tiles-2.1.2.osgi.jar" value="IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles/2.1.2.osgi/com.springsource.org.apache.tiles-2.1.2.osgi.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles.core/2.1.2.osgi/com.springsource.org.apache.tiles.core-2.1.2.osgi.jar" value="IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.core/2.1.2.osgi/com.springsource.org.apache.tiles.core-2.1.2.osgi.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.1.2/com.springsource.org.apache.tiles.jsp-2.1.2.jar" value="IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.1.2/com.springsource.org.apache.tiles.jsp-2.1.2.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles.servlet/2.1.2/com.springsource.org.apache.tiles.servlet-2.1.2.jar" value="IVY_CACHE/org.apache.tiles/com.springsource.org.apache.tiles.servlet/2.1.2/com.springsource.org.apache.tiles.servlet-2.1.2.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar" value="IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar" kind="src:" value="/IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar" />
+    <varelement var="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-1.5.3.jar" value="IVY_CACHE/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-1.5.3.jar" />
+    <varelement var="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-sources-1.5.3.jar" kind="src:" value="/IVY_CACHE/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-sources-1.5.3.jar" />
+    <varelement var="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-1.5.3.jar" value="IVY_CACHE/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-1.5.3.jar" />
+    <varelement var="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-sources-1.5.3.jar" kind="src:" value="/IVY_CACHE/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-sources-1.5.3.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src/main/java" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src/main/resources" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/src/test/java" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/src/test/resources" expected_position="3" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="Bundlor" manifestLocation="" jarfileLocation="org.springframework.web.servlet.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="template.mf" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="false" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties />
+        <additionalJARContents />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-default-servlet-optional-attrs.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-interceptors.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-custom-conversion-service.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-resources-optional-attrs.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-default-servlet.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-bean-decoration.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-view-controllers.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-custom-validator.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/web/servlet/config/mvc-config-resources.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/src/test/java/org/springframework/web/context/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/src/test/java/org/springframework/web/context" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="org.springframework.aop" />
+    <orderEntry type="module" module-name="org.springframework.beans" />
+    <orderEntry type="module" module-name="org.springframework.context" />
+    <orderEntry type="module" module-name="org.springframework.context.support" />
+    <orderEntry type="module" module-name="org.springframework.core" />
+    <orderEntry type="module" module-name="org.springframework.jdbc" />
+    <orderEntry type="module" module-name="org.springframework.orm" />
+    <orderEntry type="module" module-name="org.springframework.oxm" />
+    <orderEntry type="module" module-name="org.springframework.transaction" />
+    <orderEntry type="module" module-name="org.springframework.web" />
+    <orderEntry type="module-library">
+      <library name="com.springsource.com.lowagie.text-2.0.8.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-2.0.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/com.springsource.com.lowagie.text-sources-2.0.8.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.com.sun.syndication-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/com.sun.syndication/com.springsource.com.sun.syndication/1.0.0/com.springsource.com.sun.syndication-sources-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.activation-1.1.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-1.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.activation/com.springsource.javax.activation/1.1.0/com.springsource.javax.activation-sources-1.1.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.el-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.el/com.springsource.javax.el/1.0.0/com.springsource.javax.el-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.el/com.springsource.javax.el/1.0.0/com.springsource.javax.el-sources-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.servlet.jsp.jstl-1.1.2.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp.jstl/1.1.2/com.springsource.javax.servlet.jsp.jstl-sources-1.1.2.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.servlet.jsp-2.1.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-2.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet.jsp/2.1.0/com.springsource.javax.servlet.jsp-sources-2.1.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.servlet-2.5.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet/2.5.0/com.springsource.javax.servlet-2.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.servlet/com.springsource.javax.servlet/2.5.0/com.springsource.javax.servlet-sources-2.5.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.net.sf.jasperreports-2.0.5.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-2.0.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/net.sourceforge.jasperreports/com.springsource.net.sf.jasperreports/2.0.5/com.springsource.net.sf.jasperreports-sources-2.0.5.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.jxl-2.6.6.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-2.6.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/net.sourceforge.jexcelapi/com.springsource.jxl/2.6.6/com.springsource.jxl-sources-2.6.6.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.aopalliance-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-sources-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.commons.fileupload-1.2.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-1.2.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.fileupload/1.2.0/com.springsource.org.apache.commons.fileupload-sources-1.2.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.commons.lang-2.1.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-2.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.lang/2.1.0/com.springsource.org.apache.commons.lang-sources-2.1.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.commons.logging-1.1.1.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-sources-1.1.1.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.poi-3.0.2.FINAL.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-3.0.2.FINAL.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-sources-3.0.2.FINAL.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.velocity.tools.view-1.4.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-1.4.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity.tools.view/1.4.0/com.springsource.org.apache.velocity.tools.view-sources-1.4.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.velocity-1.5.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-1.5.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.velocity/com.springsource.org.apache.velocity/1.5.0/com.springsource.org.apache.velocity-sources-1.5.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.codehaus.jackson.mapper-1.4.2.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.4.2/com.springsource.org.codehaus.jackson.mapper-1.4.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson.mapper/1.4.2/com.springsource.org.codehaus.jackson.mapper-sources-1.4.2.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.codehaus.jackson-1.4.2.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.4.2/com.springsource.org.codehaus.jackson-1.4.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.codehaus.jackson/com.springsource.org.codehaus.jackson/1.4.2/com.springsource.org.codehaus.jackson-sources-1.4.2.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.custommonkey.xmlunit-1.2.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.custommonkey.xmlunit/com.springsource.org.custommonkey.xmlunit/1.2.0/com.springsource.org.custommonkey.xmlunit-1.2.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.custommonkey.xmlunit/com.springsource.org.custommonkey.xmlunit/1.2.0/com.springsource.org.custommonkey.xmlunit-sources-1.2.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-1.6.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.dom4j/com.springsource.org.dom4j/1.6.1/com.springsource.org.dom4j-sources-1.6.1.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.easymock-2.5.1.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-2.5.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-sources-2.5.1.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.freemarker-2.3.15.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-2.3.15.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.freemarker/com.springsource.freemarker/2.3.15/com.springsource.freemarker-sources-2.3.15.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.jaxen-1.1.1.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-1.1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.jaxen/com.springsource.org.jaxen/1.1.1/com.springsource.org.jaxen-sources-1.1.1.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.jdom-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.jdom/com.springsource.org.jdom/1.0.0/com.springsource.org.jdom-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.junit-4.7.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-sources-4.6.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.mozilla.javascript-1.7.0.R2.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.mozilla.javascript/com.springsource.org.mozilla.javascript/1.7.0.R2/com.springsource.org.mozilla.javascript-1.7.0.R2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.hibernate-3.3.1.GA.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.hibernate/com.springsource.org.hibernate/3.3.1.GA/com.springsource.org.hibernate-3.3.1.GA.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.transaction-1.1.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.tiles-2.1.2.osgi.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles/2.1.2.osgi/com.springsource.org.apache.tiles-2.1.2.osgi.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.tiles.core-2.1.2.osgi.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles.core/2.1.2.osgi/com.springsource.org.apache.tiles.core-2.1.2.osgi.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.tiles.jsp-2.1.2.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles.jsp/2.1.2/com.springsource.org.apache.tiles.jsp-2.1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.tiles.servlet-2.1.2.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.tiles/com.springsource.org.apache.tiles.servlet/2.1.2/com.springsource.org.apache.tiles.servlet-2.1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.validation-1.0.0.GA.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.slf4j.jcl-1.5.3.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-1.5.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.jcl/1.5.3/com.springsource.slf4j.jcl-sources-1.5.3.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.slf4j.api-1.5.3.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-1.5.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.slf4j/com.springsource.slf4j.api/1.5.3/com.springsource.slf4j.api-sources-1.5.3.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="org.springframework.expression" />
+  </component>
+</module>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file:///org.springframework.asm/target/artifacts/org.springframework.asm.jar" />
+    <varelement var="file://$IVY_CACHE$/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar" value="IVY_CACHE/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-sources-3.0.0.jar" kind="src:" value="/IVY_CACHE/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-sources-3.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar" value="IVY_CACHE/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-sources-3.0.0.jar" kind="src:" value="/IVY_CACHE/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-sources-3.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.inject/com.springsource.javax.inject/1.0.0/com.springsource.javax.inject-1.0.0.jar" value="IVY_CACHE/javax.inject/com.springsource.javax.inject/1.0.0/com.springsource.javax.inject-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.inject/com.springsource.javax.inject/1.0.0/com.springsource.javax.inject-sources-1.0.0.jar" kind="src:" value="/IVY_CACHE/javax.inject/com.springsource.javax.inject/1.0.0/com.springsource.javax.inject-sources-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar" value="IVY_CACHE/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-sources-1.1.0.jar" kind="src:" value="/IVY_CACHE/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-sources-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar" value="IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-sources-1.0.0.jar" kind="src:" value="/IVY_CACHE/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-sources-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar" value="IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar" kind="src:" value="/IVY_CACHE/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar" value="IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar" kind="src:" value="/IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.xml.rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar" value="IVY_CACHE/javax.xml.rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar" />
+    <varelement var="file://$IVY_CACHE$/net.sourceforge.cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.jar" value="IVY_CACHE/net.sourceforge.cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.jar" />
+    <varelement var="file://$IVY_CACHE$/net.sourceforge.cglib/com.springsource.net.sf.cglib/2.1.3/com.springsource.net.sf.cglib-sources-2.1.3.jar" kind="src:" value="/IVY_CACHE/net.sourceforge.cglib/com.springsource.net.sf.cglib/2.1.3/com.springsource.net.sf.cglib-sources-2.1.3.jar" />
+    <varelement var="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar" value="IVY_CACHE/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-sources-1.0.0.jar" kind="src:" value="/IVY_CACHE/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-sources-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" value="IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-sources-1.2.2.osgi.jar" kind="src:" value="/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-sources-1.2.2.osgi.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" value="IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-sources-1.1.1.jar" kind="src:" value="/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-sources-1.1.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.pool/1.5.3/com.springsource.org.apache.commons.pool-1.5.3.jar" value="IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.5.3/com.springsource.org.apache.commons.pool-1.5.3.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.pool/1.5.3/com.springsource.org.apache.commons.pool-sources-1.5.3.jar" kind="src:" value="/IVY_CACHE/org.apache.commons/com.springsource.org.apache.commons.pool/1.5.3/com.springsource.org.apache.commons.pool-sources-1.5.3.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.log4j/com.springsource.org.apache.log4j/1.2.15/com.springsource.org.apache.log4j-1.2.15.jar" value="IVY_CACHE/org.apache.log4j/com.springsource.org.apache.log4j/1.2.15/com.springsource.org.apache.log4j-1.2.15.jar" />
+    <varelement var="file://$IVY_CACHE$/org.apache.log4j/com.springsource.org.apache.log4j/1.2.15/com.springsource.org.apache.log4j-sources-1.2.15.jar" kind="src:" value="/IVY_CACHE/org.apache.log4j/com.springsource.org.apache.log4j/1.2.15/com.springsource.org.apache.log4j-sources-1.2.15.jar" />
+    <varelement var="file://$IVY_CACHE$/org.aspectj/com.springsource.org.aspectj.weaver/1.6.8.RELEASE/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" value="IVY_CACHE/org.aspectj/com.springsource.org.aspectj.weaver/1.6.8.RELEASE/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" />
+    <varelement var="file://$IVY_CACHE$/org.beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar" value="IVY_CACHE/org.beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar" />
+    <varelement var="file://$IVY_CACHE$/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-1.6.5.jar" value="IVY_CACHE/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-1.6.5.jar" />
+    <varelement var="file://$IVY_CACHE$/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-sources-1.6.5.jar" kind="src:" value="/IVY_CACHE/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-sources-1.6.5.jar" />
+    <varelement var="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-2.5.1.jar" value="IVY_CACHE/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-2.5.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-sources-2.5.1.jar" kind="src:" value="/IVY_CACHE/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-sources-2.5.1.jar" />
+    <varelement var="file://$IVY_CACHE$/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-1.6.0.jar" value="IVY_CACHE/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-1.6.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-sources-1.6.0.jar" kind="src:" value="/IVY_CACHE/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-sources-1.6.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-1.4.0.jar" value="IVY_CACHE/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-1.4.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-sources-1.4.0.jar" kind="src:" value="/IVY_CACHE/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-sources-1.4.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" value="IVY_CACHE/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-sources-4.7.0.jar" kind="src:" value="/IVY_CACHE/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-sources-4.7.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-1.0.0.jar" value="IVY_CACHE/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-sources-1.0.0.jar" kind="src:" value="/IVY_CACHE/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-sources-1.0.0.jar" />
+    <varelement var="file://$IVY_CACHE$/org.hibernate/com.springsource.org.hibernate.validator/4.1.0.GA/com.springsource.org.hibernate.validator-4.1.0.GA.jar" value="IVY_CACHE/org.hibernate/com.springsource.org.hibernate.validator/4.1.0.GA/com.springsource.org.hibernate.validator-4.1.0.GA.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src/main/java" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src/main/resources" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/src/test/java" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/src/test/resources" expected_position="3" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="Bundlor" manifestLocation="" jarfileLocation="org.springframework.context.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="template.mf" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="false" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties />
+        <additionalJARContents />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultAutowireByTypeTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/DeclareParentsTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/TargetPointcutSelectionTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/invalidConstructorNameGeneratorTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/AroundAdviceCircularTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/ImplicitJPArgumentMatchingTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutAtAspectTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/scopedProxyInterfacesTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/benchmark/BenchmarkTests-aspectj.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/ThisAndTargetSelectionOnlyPointcutsAtAspectJTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/SharedPointcutWithArgsMismatchTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/AfterReturningAdviceBindingTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/spr3064/SPR3064Tests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/AspectAndAdvicePrecedenceTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspectsWithAbstractBean.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorAndLazyInitTargetSourceTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/AfterThrowingAdviceBindingTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-usesInclude.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-atAspectJ-after.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AtAspectJAfterThrowingTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectImplementingInterfaceTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspectsWithCGLIB.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AtAspectJAnnotationBindingTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/ValueInjectionTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultDependencyCheckAllTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/AutowiredConfigurationTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/annotation-config.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspects.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspectsWithOrdering.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/jmx/export/annotation/lazyAssembling.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-retryAspect.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/jmx/export/annotation/lazyNaming.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/jmx/export/annotation/componentScan.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/generic/AfterReturningGenericTypeMatchingTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotationPointcutTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/generic/GenericParameterMatchingTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingClassProxyTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultLazyInitFalseTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/customAnnotationUsedForBothComponentScanAndQualifierTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/scopedProxyTargetClassTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotationBindingTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/customNameGeneratorTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/aspectjTypeFilterTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultDependencyCheckObjectsWithAutowireByNameTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/SubtypeSensitiveMatchingTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/simpleConfigTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultAutowireByNameTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/BeforeAdviceBindingTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/scopedProxyInvalidConfigTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/scopedProxyDefaultTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/ThisAndTargetSelectionOnlyPointcutsTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/OverloadedAdviceTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultAutowireNoTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scheduling/annotation/taskNamespaceTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultAutowireConstructorTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/ProceedTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/AutowiredConfigurationTests-custom.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/invalidClassNameScopeResolverTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/Spr6602Tests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultLazyInitTrueTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/ImplicitJPArgumentMatchingAtAspectJTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/DeclarationOrderIndependenceTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/simpleScanTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/AroundAdviceBindingTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-atAspectJ-before.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/doubleScanTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultNonExistingInitAndDestroyMethodsTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/componentScanWithAutowiredQualifierTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultInitAndDestroyMethodsTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/scopedProxyNoTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/matchingResourcePatternTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/customTypeFilterTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/OverloadedAdviceTests-ambiguous.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/beans/factory/xml/support/CustomNamespaceHandlerTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/ImportXmlWithAopNamespace-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/customScopeResolverTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/ImportXmlConfig-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/defaultWithNoOverridesTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-before.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/nonMatchingResourcePatternTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-after.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/aspectj-autoproxy-config.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/DeclareParentsDelegateRefTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/AfterAdviceBindingTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerArgNamesTests-ok.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerThrowingTests-ok.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/PrototypeProxyTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/support/test/aliased-contextC.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/support/test/contextA.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerReturningTests-error.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerProxyTargetClassTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerArgNamesTests-error.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerAdviceTypeTests-error.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerReturningTests-ok.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/aspectj/autoproxy/benchmark/BenchmarkTests-springAop.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/beans/factory/xml/QualifierAnnotationTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/scheduling/config/schedulerContext.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/scope/ScopedProxyTests-map.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/scheduling/config/scheduledTasksContext.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/scheduling/config/executorContext.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/scope/ScopedProxyTests-list.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/annotation/configuration/SecondLevelSubConfig-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/scope/ScopedProxyTests-override.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/scripting/config/scriptingDefaultsTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/context/conversionservice/conversionService.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/context/support/simpleThreadScopeTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/context/config/contextNamespaceHandlerTests-replace.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/context/config/contextNamespaceHandlerTests-location.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/context/config/contextNamespaceHandlerTests-replace-ignore.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/context/config/contextNamespaceHandlerTests-system.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/context/config/contextNamespaceHandlerTests-override.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scripting/groovy/groovy-multiple-properties.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/access/ContextJndiBeanFactoryLocatorTests-collections.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scripting/groovy/groovyContext.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/beans/factory/xml/simplePropertyNamespaceHandlerWithExpressionLanguageTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/beans/factory/xml/XmlBeanFactoryTests-constructorArg.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/support/GenericXmlApplicationContextTests-context.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scripting/jruby/jruby-aop.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scripting/jruby/jruby-with-xsd.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/support/lifecycleTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/support/spr7283.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scripting/bsh/bsh-with-xsd.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/beans/factory/xml/XmlBeanFactoryTests-collections.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/ejb/config/jeeNamespaceHandlerTests.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/support/ClassPathXmlApplicationContextTests-resource.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scripting/groovy/calculators-with-xsd.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/scripting/groovy/groovy-with-xsd.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/beans/factory/xml/XmlBeanFactoryTests-localCollectionsUsingXsd.xml</file>
+          <file>file://$MODULE_DIR$/src/test/resources/org/springframework/scheduling/config/annotationDrivenContext.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerAdviceTypeTests-ok.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/aop/config/AopNamespaceHandlerThrowingTests-error.xml</file>
+          <file>file://$MODULE_DIR$/src/test/java/org/springframework/context/support/test/contextC.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="org.springframework.aop" />
+    <orderEntry type="module" module-name="org.springframework.beans" />
+    <orderEntry type="module" module-name="org.springframework.core" />
+    <orderEntry type="module" module-name="org.springframework.expression" />
+    <orderEntry type="module" module-name="org.springframework.instrument" />
+    <orderEntry type="module-library">
+      <library name="org.springframework.asm.jar">
+        <CLASSES>
+          <root url="file:///org.springframework.asm/target/artifacts/org.springframework.asm.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///org.springframework.asm/target/artifacts/org.springframework.asm-sources.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.edu.emory.mathcs.backport-3.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-3.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/edu.emory.mathcs.backport/com.springsource.edu.emory.mathcs.backport/3.0.0/com.springsource.edu.emory.mathcs.backport-sources-3.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.ejb-3.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-3.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.ejb/com.springsource.javax.ejb/3.0.0/com.springsource.javax.ejb-sources-3.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.inject-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.inject/com.springsource.javax.inject/1.0.0/com.springsource.javax.inject-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.inject/com.springsource.javax.inject/1.0.0/com.springsource.javax.inject-sources-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.jms-1.1.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-1.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.jms/com.springsource.javax.jms/1.1.0/com.springsource.javax.jms-sources-1.1.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.persistence-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.persistence/com.springsource.javax.persistence/1.0.0/com.springsource.javax.persistence-sources-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.transaction-1.1.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-1.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.transaction/com.springsource.javax.transaction/1.1.0/com.springsource.javax.transaction-sources-1.1.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.validation-1.0.0.GA.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0.GA/com.springsource.javax.validation-1.0.0.GA.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.GA.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.javax.xml.rpc-1.1.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.xml.rpc/com.springsource.javax.xml.rpc/1.1.0/com.springsource.javax.xml.rpc-1.1.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.net.sf.cglib-2.2.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/net.sourceforge.cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/net.sourceforge.cglib/com.springsource.net.sf.cglib/2.1.3/com.springsource.net.sf.cglib-sources-2.1.3.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.aopalliance-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-sources-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.dbcp/1.2.2.osgi/com.springsource.org.apache.commons.dbcp-sources-1.2.2.osgi.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.commons.logging-1.1.1.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-sources-1.1.1.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.commons.pool-1.5.3.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.pool/1.5.3/com.springsource.org.apache.commons.pool-1.5.3.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.commons/com.springsource.org.apache.commons.pool/1.5.3/com.springsource.org.apache.commons.pool-sources-1.5.3.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.apache.log4j-1.2.15.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.apache.log4j/com.springsource.org.apache.log4j/1.2.15/com.springsource.org.apache.log4j-1.2.15.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.apache.log4j/com.springsource.org.apache.log4j/1.2.15/com.springsource.org.apache.log4j-sources-1.2.15.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.aspectj/com.springsource.org.aspectj.weaver/1.6.8.RELEASE/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.bsh-2.0.0.b4.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.beanshell/com.springsource.bsh/2.0.0.b4/com.springsource.bsh-2.0.0.b4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.codehaus.groovy-1.6.5.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-1.6.5.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.codehaus.groovy/com.springsource.org.codehaus.groovy/1.6.5/com.springsource.org.codehaus.groovy-sources-1.6.5.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.easymock-2.5.1.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-2.5.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.easymock/com.springsource.org.easymock/2.5.1/com.springsource.org.easymock-sources-2.5.1.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.joda.time-1.6.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-1.6.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.joda/com.springsource.org.joda.time/1.6.0/com.springsource.org.joda.time-sources-1.6.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.jruby-1.4.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-1.4.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.jruby/com.springsource.org.jruby/1.4.0/com.springsource.org.jruby-sources-1.4.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.junit-4.7.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/org.junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-sources-4.7.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.atinject.tck-1.0.0.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-1.0.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$IVY_CACHE$/javax.inject/com.springsource.org.atinject.tck/1.0.0/com.springsource.org.atinject.tck-sources-1.0.0.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.springsource.org.hibernate.validator-4.1.0.GA.jar">
+        <CLASSES>
+          <root url="file://$IVY_CACHE$/org.hibernate/com.springsource.org.hibernate.validator/4.1.0.GA/com.springsource.org.hibernate.validator-4.1.0.GA.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

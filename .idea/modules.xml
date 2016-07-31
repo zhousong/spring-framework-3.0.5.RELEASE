@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.aop/org.springframework.aop.iml" filepath="$PROJECT_DIR$/projects/org.springframework.aop/org.springframework.aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.asm/org.springframework.asm.iml" filepath="$PROJECT_DIR$/projects/org.springframework.asm/org.springframework.asm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.aspects/org.springframework.aspects.iml" filepath="$PROJECT_DIR$/projects/org.springframework.aspects/org.springframework.aspects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.beans/org.springframework.beans.iml" filepath="$PROJECT_DIR$/projects/org.springframework.beans/org.springframework.beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.context/org.springframework.context.iml" filepath="$PROJECT_DIR$/projects/org.springframework.context/org.springframework.context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.context.support/org.springframework.context.support.iml" filepath="$PROJECT_DIR$/projects/org.springframework.context.support/org.springframework.context.support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.core/org.springframework.core.iml" filepath="$PROJECT_DIR$/projects/org.springframework.core/org.springframework.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.expression/org.springframework.expression.iml" filepath="$PROJECT_DIR$/projects/org.springframework.expression/org.springframework.expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.instrument/org.springframework.instrument.iml" filepath="$PROJECT_DIR$/projects/org.springframework.instrument/org.springframework.instrument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.instrument.tomcat/org.springframework.instrument.tomcat.iml" filepath="$PROJECT_DIR$/projects/org.springframework.instrument.tomcat/org.springframework.instrument.tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.integration-tests/org.springframework.integration-tests.iml" filepath="$PROJECT_DIR$/projects/org.springframework.integration-tests/org.springframework.integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.jdbc/org.springframework.jdbc.iml" filepath="$PROJECT_DIR$/projects/org.springframework.jdbc/org.springframework.jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.jms/org.springframework.jms.iml" filepath="$PROJECT_DIR$/projects/org.springframework.jms/org.springframework.jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.orm/org.springframework.orm.iml" filepath="$PROJECT_DIR$/projects/org.springframework.orm/org.springframework.orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.oxm/org.springframework.oxm.iml" filepath="$PROJECT_DIR$/projects/org.springframework.oxm/org.springframework.oxm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.spring-library/org.springframework.spring-library.iml" filepath="$PROJECT_DIR$/projects/org.springframework.spring-library/org.springframework.spring-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.test/org.springframework.test.iml" filepath="$PROJECT_DIR$/projects/org.springframework.test/org.springframework.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.transaction/org.springframework.transaction.iml" filepath="$PROJECT_DIR$/projects/org.springframework.transaction/org.springframework.transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.web/org.springframework.web.iml" filepath="$PROJECT_DIR$/projects/org.springframework.web/org.springframework.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.web.portlet/org.springframework.web.portlet.iml" filepath="$PROJECT_DIR$/projects/org.springframework.web.portlet/org.springframework.web.portlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.web.servlet/org.springframework.web.servlet.iml" filepath="$PROJECT_DIR$/projects/org.springframework.web.servlet/org.springframework.web.servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/org.springframework.web.struts/org.springframework.web.struts.iml" filepath="$PROJECT_DIR$/projects/org.springframework.web.struts/org.springframework.web.struts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/spring-framework-reference/spring-framework-reference.iml" filepath="$PROJECT_DIR$/projects/spring-framework-reference/spring-framework-reference.iml" />
+    </modules>
+  </component>
+</project>
