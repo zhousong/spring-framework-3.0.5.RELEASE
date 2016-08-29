@@ -97,5 +97,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="org.springframework.orm" />
+    <orderEntry type="library" name="servlet-api" level="project" />
   </component>
 </module>

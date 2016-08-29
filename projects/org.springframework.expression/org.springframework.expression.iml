@@ -54,5 +54,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="org.springframework.core" />
+    <orderEntry type="library" name="servlet-api" level="project" />
   </component>
 </module>

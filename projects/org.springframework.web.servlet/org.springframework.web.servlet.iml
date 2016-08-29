@@ -501,5 +501,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="org.springframework.expression" />
+    <orderEntry type="library" name="servlet-api" level="project" />
   </component>
 </module>

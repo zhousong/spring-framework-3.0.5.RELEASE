@@ -68,7 +68,7 @@ public class ClassPathXmlApplicationContext extends AbstractXmlApplicationContex
 	 * @see #setConfigLocation
 	 * @see #setConfigLocations
 	 * @see #afterPropertiesSet()
-	 */
+	 */¨
 	public ClassPathXmlApplicationContext(ApplicationContext parent) {
 		super(parent);
 	}
